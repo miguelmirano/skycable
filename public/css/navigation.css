@@ -1,0 +1,31 @@
+.nav-item.dropdown {
+	color: white;
+}
+
+a.nav-link {
+	color: white;
+}
+
+a.dropdown-item {
+	text-align: center;
+}
+
+.navbar {
+	background-color: #000066;
+}
+
+.navbar-brand {
+	color: white;
+}
+
+i.material-icons {
+	color: white;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.dropdown {
+	text-align: center;
+}
